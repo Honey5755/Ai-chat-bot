@@ -1,1 +1,1 @@
-
+Drop your PDF or text support documents here and run `python data_loader.py` to ingest into ChromaDB.
