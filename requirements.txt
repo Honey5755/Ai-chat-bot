@@ -1,0 +1,9 @@
+langchain>=0.0.300
+openai>=0.27.0
+streamlit>=1.20.0
+chromadb>=0.3.23
+tqdm
+pyPDF2
+sentence-transformers
+sqlalchemy
+sqlite3-binary if you need
